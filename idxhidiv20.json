@@ -1,0 +1,82 @@
+{
+    "BMRI": {
+        "shares": 611283467,
+        "price": 7875
+    },
+    "TLKM": {
+        "shares": 1094885431,
+        "price": 4300
+    },
+    "BBCA": {
+        "shares": 642332786,
+        "price": 7275
+    },
+    "BBRI": {
+        "shares": 1064920146,
+        "price": 4320
+    },
+    "ASII": {
+        "shares": 386899698,
+        "price": 6850
+    },
+    "ADRO": {
+        "shares": 448792154,
+        "price": 3150
+    },
+    "UNTR": {
+        "shares": 45242809,
+        "price": 29300
+    },
+    "BBNI": {
+        "shares": 161041262,
+        "price": 8200
+    },
+    "PTBA": {
+        "shares": 348547753,
+        "price": 3650
+    },
+    "INDF": {
+        "shares": 154076993,
+        "price": 6400
+    },
+    "ITMG": {
+        "shares": 29613379,
+        "price": 29500
+    },
+    "HMSP": {
+        "shares": 608380764,
+        "price": 985
+    },
+    "MPMX": {
+        "shares": 476799253,
+        "price": 1200
+    },
+    "CPIN": {
+        "shares": 108551480,
+        "price": 4840
+    },
+    "UNVR": {
+        "shares": 105219226,
+        "price": 4690
+    },
+    "KLBF": {
+        "shares": 309246431,
+        "price": 1580
+    },
+    "TOWR": {
+        "shares": 477700949,
+        "price": 975
+    },
+    "HEXA": {
+        "shares": 32845445,
+        "price": 6000
+    },
+    "ANTM": {
+        "shares": 66959323,
+        "price": 2330
+    },
+    "ADMF": {
+        "shares": 7158550,
+        "price": 7950
+    }
+}
