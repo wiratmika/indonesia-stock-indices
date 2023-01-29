@@ -1,0 +1,90 @@
+{
+    "BBCA": {
+        "shares": 55473772500,
+        "price": 8700
+    },
+    "BBRI": {
+        "shares": 68201550722,
+        "price": 4640
+    },
+    "TLKM": {
+        "shares": 49531108300,
+        "price": 3960
+    },
+    "BMRI": {
+        "shares": 18666666666,
+        "price": 10025
+    },
+    "ASII": {
+        "shares": 20241776570,
+        "price": 5875
+    },
+    "BBNI": {
+        "shares": 7459462583,
+        "price": 9550
+    },
+    "MDKA": {
+        "shares": 12055425386,
+        "price": 4750
+    },
+    "AMRT": {
+        "shares": 16609800680,
+        "price": 2790
+    },
+    "ADRO": {
+        "shares": 14393682000,
+        "price": 3060
+    },
+    "KLBF": {
+        "shares": 21093804950,
+        "price": 2050
+    },
+    "CPIN": {
+        "shares": 7379100000,
+        "price": 5850
+    },
+    "UNTR": {
+        "shares": 1678560811,
+        "price": 25575
+    },
+    "UNVR": {
+        "shares": 7630000000,
+        "price": 4750
+    },
+    "INDF": {
+        "shares": 4390213250,
+        "price": 6700
+    },
+    "SMGR": {
+        "shares": 3388867659,
+        "price": 7275
+    },
+    "BRPT": {
+        "shares": 28242582952,
+        "price": 840
+    },
+    "ICBP": {
+        "shares": 2332381594,
+        "price": 10000
+    },
+    "INKP": {
+        "shares": 2735491471,
+        "price": 8525
+    },
+    "TOWR": {
+        "shares": 20405850000,
+        "price": 1125
+    },
+    "ANTM": {
+        "shares": 8410767654,
+        "price": 2300
+    },
+    "INCO": {
+        "shares": 2484084680,
+        "price": 7425
+    },
+    "ARTO": {
+        "shares": 4156875000,
+        "price": 3330
+    }
+}
